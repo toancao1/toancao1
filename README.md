@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toancao1
+- 👋 Hi, I’m @toancao
 - 👀 I’m interested in web development, coding, debugging.
 - 🌱 I’m currently learning Java, Python.
 - 💞️ I’m looking to collaborate on coding projects.
